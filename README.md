@@ -10,6 +10,7 @@ Future Development :
 
 * Hopefully improve the look for javascript, html, C and C++, specifically!
 * Improve existing support for this theme. 
+* Create a light theme that wont hurt the eyes (atleast ill try). 
 
 ### Author
 * [@prestonjayhil](https://github.com/PrestonJayHil)
