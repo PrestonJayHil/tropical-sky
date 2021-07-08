@@ -19,3 +19,5 @@ Future Development :
 * [1.0.0] - 2021-08-07
 
 **Enjoy!**
+
+![](assets/python.png)
