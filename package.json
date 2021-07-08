@@ -1,7 +1,7 @@
 {
-    "name": "hawaiian-theme",
-    "displayName": "Hawaiian Theme",
-    "description": "Hawaiian themed colors for vscode",
+    "name": "tropical-theme",
+    "displayName": "Tropical Sky Theme",
+    "description": "Tropical themed colors for vscode",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.57.0"
@@ -12,9 +12,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Hawaiian Theme",
+                "label": "Tropical Theme",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Hawaiian Theme-color-theme.json"
+                "path": "./themes/Tropical Theme-color-theme.json"
             }
         ]
     }
