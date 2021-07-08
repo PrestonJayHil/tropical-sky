@@ -1,0 +1,21 @@
+{
+    "name": "hawaiian-theme",
+    "displayName": "Hawaiian Theme",
+    "description": "Hawaiian themed colors for vscode",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.57.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Hawaiian Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Hawaiian Theme-color-theme.json"
+            }
+        ]
+    }
+}
