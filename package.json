@@ -3,6 +3,21 @@
     "displayName": "Tropical Sky Theme",
     "description": "Tropical themed colors for vscode",
     "version": "0.0.1",
+    "publisher": "prestonjayhil",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/PrestonJayHil/tropical-sky"
+    },
+    "keywords": [
+        "tropical",
+        "sky",
+        "tropical-sky",
+        "prestonjayhil",
+        "dark theme",
+        "dark themes",
+        "sky themes",
+        "colorful"
+    ],
     "engines": {
         "vscode": "^1.57.0"
     },
