@@ -4,10 +4,10 @@
 	"colors": {
 		"editor.background": "#263238",
 		"editor.foreground": "#eeffff",
-		"activityBar.background": "#35526a",
+		"activityBar.background": "#263238",
 		"activityBar.foreground": "#7aebed",
 		"activityBarBadge.background": "#53cea9",
-		"editorLineNumber.activeForeground": "#6fc19b",
+		"editorLineNumber.activeForeground": "#7aebed",
 		"sideBarTitle.foreground": "#bbbbbb"
 	},
 	"tokenColors": [
@@ -196,7 +196,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#E2F29A"
+				"foreground": "#d8e98b"
 			}
 		},
 		{
