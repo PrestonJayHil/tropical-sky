@@ -20,6 +20,3 @@ Javascript / HTML / CSS
 
 ![](assets/js-html-css.png)
 
-Python / C++ 
-
-![](assets/python-cpp.png)
