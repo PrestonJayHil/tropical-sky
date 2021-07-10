@@ -2,24 +2,28 @@
 ## About
 This theme is a personal project :
 
-* Specifically designed for Python and Json files however, this extension works for any language, syntax, files, etc. 
+* Tropical Sky supports syntax for Javascript,HTML,CSS and Python (C/C++ is in current development, however, this theme does support it)
 * The extension is in its infancy and will be properly maintained, modified and improved over time. 
-* Take a look at the screen shot below. 
+* Take a look at the screen shots below. 
 
 Future Development :
 
-* Hopefully improve the look for javascript, html, C and C++, specifically!
-* Improve existing support for this theme. 
-* Create a light theme that wont hurt the eyes (atleast ill try). 
+* Improve support for C/C++ and other languages
+* Improve existing support. 
+* Create a light theme. 
 
-### Author
-* [@prestonjayhil](https://github.com/PrestonJayHil)
-
-### Version Log
-
-* [1.0.0] - 2021-08-07
 
 **Enjoy!**
 
+Javascript /  HTML  / CSS 
+
+
+
+
+
+
 Python
-![](assets/python.png)
+
+
+
+C/C++

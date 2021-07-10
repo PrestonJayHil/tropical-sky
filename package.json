@@ -4,6 +4,7 @@
     "description": "Tropical themed colors for vscode",
     "version": "1.0.0",
     "publisher": "prestonjayhil",
+    "icon": "assets/tropical-sky-logo.png",
     "repository": {
         "type": "git",
         "url": "https://github.com/PrestonJayHil/tropical-sky"
