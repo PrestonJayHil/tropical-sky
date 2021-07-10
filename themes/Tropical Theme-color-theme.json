@@ -176,6 +176,15 @@
 			}
 		},
 		{
+			"name": "using",
+			"scope": [
+				"keyword.other.using.directive"
+			],
+			"settings": {
+				"foreground": "#f07178"
+			}
+		},
+		{
 			"name": "Number, Constant, Function Argument, Tag Attribute, Embedded",
 			"scope": [
 				"variable.parameter",
@@ -213,6 +222,16 @@
 			],
 			"settings": {
 				"foreground": "#87e1dd"
+			}
+		},
+		{
+			"name": "std",
+			"scope": [
+				"entity.name.namespace",
+			
+			],
+			"settings": {
+				"foreground": "#def4f2"
 			}
 		},
 		{
