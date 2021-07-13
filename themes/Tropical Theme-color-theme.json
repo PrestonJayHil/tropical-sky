@@ -146,7 +146,7 @@
 				"meta.block variable.other"
 			],
 			"settings": {
-				"foreground": "#ff688e"
+				"foreground": "#EEFFFF"
 			}
 		},
 		{
@@ -173,6 +173,15 @@
 			],
 			"settings": {
 				"foreground": "#ffa662"
+			}
+		},
+		{
+			"name": "*",
+			"scope": [
+				"keyword.operator.arithmetic.python",
+			],
+			"settings": {
+				"foreground": "#EEFFFF"
 			}
 		},
 		{
