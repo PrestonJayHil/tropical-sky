@@ -185,6 +185,15 @@
 			}
 		},
 		{
+			"name": "px",
+			"scope": [
+				"keyword.other.unit.px",
+			],
+			"settings": {
+				"foreground": "#EF7B7B"
+			}
+		},
+		{
 			"name": "using",
 			"scope": [
 				"keyword.other.using.directive"
