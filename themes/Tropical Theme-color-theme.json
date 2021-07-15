@@ -63,6 +63,15 @@
 			}
 		},
 		{
+			"name": "Keyword, Storage",
+			"scope": [
+				"storage.type.namespace.directive.cpp"
+			],
+			"settings": {
+				"foreground": "#3BC8FF"
+			}
+		},
+		{
 			"name": "Operator, Misc",
 			"scope": [
 				"constant.other.color",
@@ -224,6 +233,15 @@
 			],
 			"settings": {
 				"foreground": "#d8e98b"
+			}
+		},
+		{
+			"name": "iostream, Symbols, Inherited Class, Markup Heading",
+			"scope": [
+				"string.quoted.other.lt-gt.include"
+			],
+			"settings": {
+				"foreground": "#7AEBED"
 			}
 		},
 		{
@@ -422,6 +440,7 @@
 				"foreground": "#518BA3"
 			}
 		},
+		
 		{
 			"name": "ES7 Bind Operator",
 			"scope": [
@@ -521,6 +540,16 @@
 			],
 			"settings": {
 				"foreground": "#EEFFFF"
+			}
+		},
+		{
+			"name": "Markdown - Plain",
+			"scope": [
+				"text.html.markdown",
+				"punctuation.definition.directive.cpp"
+			],
+			"settings": {
+				"foreground": "#DEF4F2"
 			}
 		},
 		{
